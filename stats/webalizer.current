@@ -1,0 +1,189 @@
+# Webalizer V2.23-08 Incremental Data - 05/02/2020 01:29:41
+2020 5 2 1 29 41
+22 9 14 3 4 5 107378 4 3 0
+3 4 4 1 2
+18 8 97626 13 4 3
+4 1 9752 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+8 2 19504 0
+0 0 0 0
+0 0 0 0
+1 0 471 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 1 5330 1
+4 0 9256 2
+0 0 0 0
+0 0 0 0
+4 4 55779 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 17038 0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/project/3a. Contoh Menu Informasi Smartphone.png
+0 1 0 38635 0 0
+/contact.php
+0 3 0 25552 0 0
+/robots.txt
+0 5 0 21734 0 0
+# End Of Table - urls
+# -sites- (monthly)
+207.46.13.105
+0 1 1 8514 0 0
+-
+158.69.113.13
+0 1 0 471 1 1588305677
+-
+157.55.39.14
+0 2 1 4859 0 0
+-
+37.59.144.237
+0 1 1 8519 0 0
+-
+66.249.71.5
+0 1 0 491 0 0
+-
+40.77.167.29
+0 1 0 471 1 1588344487
+-
+66.249.71.3
+0 3 2 9221 0 0
+-
+66.249.71.31
+0 1 0 4408 0 0
+-
+157.55.39.243
+0 1 1 38635 0 0
+-
+107.173.202.243
+0 1 1 8519 0 0
+-
+157.55.39.171
+0 2 2 8630 0 0
+-
+66.249.71.1
+0 3 0 5384 0 0
+-
+148.72.209.9
+0 2 0 4622 1 1588347252
+-
+45.119.212.93
+0 2 0 4634 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.71.3
+0 2 1 4853 0 0
+-
+66.249.71.31
+0 1 0 4408 0 0
+-
+66.249.71.1
+0 1 0 491 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 19
+http://www.satyawp.com/wp-login.php
+0 1
+http://www.satyawp.com/admin/
+0 1
+https://satyawp.com/contact.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 8
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 7
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

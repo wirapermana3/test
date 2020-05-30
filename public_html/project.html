@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+ <head>   
+  <link rel="shortcut icon" href="https://satyawp.com/apple-icon-57x57.png"/>
+ 	<title>My Project</title>
+     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+	*{
+	margin: 0;
+	padding: 0;
+	}
+	html{
+	position: relative;
+    }
+	body{
+	 background: url(https://cdn.pixabay.com/photo/2016/12/29/18/44/background-1939128__340.jpg);
+	 font-family: calibri, verdana, tahoma;
+	 margin-bottom: 120px;
+		margin-top: 40px;
+	}
+	.accordian{
+	 width: 360px; height: 420px;
+	 color: white;
+	 overflow: hidden;
+	 margin: 100px auto;
+	 box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+	 -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+	 -moz-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+	}
+	.accordian ul {
+	 width: 360px;
+	}
+	 
+	.accordian li {
+	 position: relative;
+	 display: block;
+	 width: 160px;
+	 float: left;
+	  
+	 border-left: 1px solid black;
+	  
+	 box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+	 -webkit-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+	 -moz-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+	  
+	 transition: all 0.5s;
+	 -webkit-transition: all 0.5s;
+	 -moz-transition: all 0.5s;
+	}
+	 
+	.accordian ul:hover li {width: 40px;}
+	.accordian ul li:hover {width: 640px;}
+	 
+	 
+	.accordian li img {
+	 display: block;
+	}
+	 
+	.image_title {
+	 background: rgba(0, 0, 0, 0.5);
+	 position: absolute;
+	 left: 0; bottom: 0;
+	 width: 640px;
+	 
+	}
+	.image_title a {
+	 display: block;
+	 color: #fff;
+	 text-decoration: none;
+	 padding: 20px;
+	 font-size: 16px;
+	}
+	
+	@import url(http://fonts.googleapis.com/css?family=Roboto);
+	.button-container {
+	  text-align: center;
+	}
+	.button {
+	  position: relative;
+	  background: currentColor;
+	  border: 1px solid currentColor;
+	  font-size: 1.1rem;
+	  color: #D81900;
+	  margin: 3rem 0;
+	  padding: 0.75rem 3rem;
+	  cursor: pointer;
+	  -webkit-transition: background-color 0.28s ease, color 0.28s ease, box-shadow 0.28s ease;
+	  transition: background-color 0.28s ease, color 0.28s ease, box-shadow 0.28s ease;
+	  overflow: hidden;
+	  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+	}
+	.button span {
+	  color: #fff;
+	  position: relative;
+	  z-index: 1;
+	}
+	.button::before {
+	  content: '';
+	  position: absolute;
+	  background: #071017;
+	  border: 50vh solid #1d4567;
+	  width: 30vh;
+	  height: 30vh;
+	  border-radius: 50%;
+	  display: block;
+	  top: 50%;
+	  left: 50%;
+	  z-index: 0;
+	  opacity: 1;
+	  -webkit-transform: translate(-50%, -50%) scale(0);
+			  transform: translate(-50%, -50%) scale(0);
+	}
+	.button:hover {
+	  color: #D81900;
+	  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+	}
+	.button:active::before, .button:focus::before {
+	  -webkit-transition: opacity 0.28s ease 0.364s, -webkit-transform 1.12s ease;
+	  transition: opacity 0.28s ease 0.364s, -webkit-transform 1.12s ease;
+	  transition: transform 1.12s ease, opacity 0.28s ease 0.364s;
+	  transition: transform 1.12s ease, opacity 0.28s ease 0.364s, -webkit-transform 1.12s ease;
+	  -webkit-transform: translate(-50%, -50%) scale(1);
+			  transform: translate(-50%, -50%) scale(1);
+	  opacity: 0;
+	}
+	.button:focus {
+	  outline: none;
+	}
+	
+  </style>
+  </head>
+    <body>
+	<div class="accordian">
+	 <ul>
+	 <center>
+	 <h5>Project 1 : Java DSS Smartphone Recomendation</h5>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 1</a>
+	   </div>
+	   <a href="img/project/1.%20Tampilan%20Awal%20Program%20DSS.png">
+		<img src="img\project\1. Tampilan Awal Program DSS.png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 2</a>
+	   </div>
+	   <a href="img/project/2.%20Contoh%20Inputan%20Awal.png">
+		<img src="img\project\2. Contoh Inputan Awal.png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 3</a>
+	   </div>
+	   <a href="img/project/3.%20Menu%20Program.png">
+		<img src="img\project\3. Menu Program.png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 4</a>
+	   </div>
+	   <a href="img/project/3a.%20Contoh%20Menu%20Informasi%20Smartphone.png">
+		<img src="img\project\3a. Contoh Menu Informasi Smartphone.png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 5</a>
+	   </div>
+	   <a href="img/project/3b.%20Contoh%20Menu%20Menentukan%20Rekomendasi%20Smartphone.png">
+		<img src="img\project\3b. Contoh Menu Menentukan Rekomendasi Smartphone.png"/>
+	   </a>
+	  </li>
+	    <li>
+	   <div class="image_title">
+		<a href="#">Slide 6</a>
+	   </div>
+	   <a href="img/project/4.%20Contoh%20Inputan%20Pertanyaan%20(Survey).png">
+		<img src="img\project\4. Contoh Inputan Pertanyaan (Survey).png"/>
+	   </a>
+	  </li>
+	    <li>
+	   <div class="image_title">
+		<a href="#">Slide 7</a>
+	   </div>
+	   <a href="img/project/5a.%20Contoh%201%20Hasil%20Akhir%20(Hasil%20Keputusan%20DSS).png">
+		<img src="img\project\5a. Contoh 1 Hasil Akhir (Hasil Keputusan DSS).png"/>
+	   </a>
+	  </li>
+	    <li>
+	   <div class="image_title">
+		<a href="#">Slide 8</a>
+	   </div>
+	   <a href="img/project/5b.%20Contoh%202%20Hasil%20Akhir%20(Hasil%20Keputusan%20DSS%20Awal%20Berdasar%20Survey%20Pertanyaan).png">
+		<img src="img\project\5b. Contoh 2 Hasil Akhir (Hasil Keputusan DSS Awal Berdasar Survey Pertanyaan).png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 9</a>
+	   </div>
+	   <a href="img/project/5c.%20Contoh%203%20Hasil%20Akhir%20(Keputusan%20DSS%20Akhir%20dengan%20Survey%20Bobot%20Nilai).png">
+		<img src="img\project\5c. Contoh 3 Hasil Akhir (Keputusan DSS Akhir dengan Survey Bobot Nilai).png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 10</a>
+	   </div>
+	   <a href="img/project/6.%20Inputan%20Untuk%20Mengulang%20Program.png">
+		<img src="img\project\6. Inputan Untuk Mengulang Program.png"/>
+	   </a>
+	  </li>
+	  <li>
+	   <div class="image_title">
+		<a href="#">Slide 11</a>
+	   </div>
+	   <a href="img/project/7.%20Akhir%20Program.png">
+		<img src="img\project\7. Akhir Program.png"/>
+	   </a>
+	  </li>
+	 </ul>
+	</div>
+	<div class="container">
+			<div class="button-container">
+				<a href="index.html"><button type="submit" class="button"><span>Go To Homepage</span><button></a>
+		    </div> 
+		</div>
+		<div class="container">
+			<div class="button-container">
+				<a href="contact.php"><button type="submit" class="button"><span>Contact Me</span><button></a>
+		    </div> 
+		</div>
+		<script data-align="left" data-overlay="false" id="keyreply-script" src="//keyreply.com/chat/widget.js" data-color="#E4392B" data-apps="JTdCJTIyd2hhdHNhcHAlMjI6JTIyKzYyODk1Mzc5MTgxMDQwJTIyLCUyMnNtcyUyMjolMjIwODk1Mzc5MTgxMDQwJTIyLCUyMnBob25lJTIyOiUyMjA4OTUzNzkxODEwNDAlMjIsJTIydGVsZWdyYW0lMjI6JTIyQHdpcmFwZXJtYW5hMyUyMiwlMjJmYWNlYm9vayUyMjolMjJ3aXJhLnBlcm1hbmEuMzklMjIsJTIyZW1haWwlMjI6JTIyd2lyYXBlcm1hbmEzQGdtYWlsLmNvbSUyMiU3RA=="></script>
+</body>
+</html>

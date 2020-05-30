@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.satyawp.com$ [NC]
+RewriteRule ^(.*)$ http://satyawp.com/awstats/$1 [R=301,L]

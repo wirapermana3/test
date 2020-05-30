@@ -1,0 +1,62 @@
+[06-May-2019 12:34:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 12:34:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 12:34:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[06-May-2019 13:01:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 13:01:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 13:01:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[06-May-2019 13:02:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 13:02:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 13:02:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[06-May-2019 13:06:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'satyawpc_satyawp'@'coffee.qwords.net' to database 'satyawpc_crud_db' in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 13:06:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 13:06:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[06-May-2019 13:09:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'satyawpc_satyawp'@'localhost' to database 'satyawpc_crud_db' in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 13:09:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 13:09:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[06-May-2019 13:09:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'satyawpc_satyawp'@'localhost' to database 'satyawpc_crud_db' in /home/satyawpc/public_html/koneksi.php on line 6
+[06-May-2019 13:09:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/satyawpc/public_html/index2.php on line 6
+[06-May-2019 13:09:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 308
+[13-May-2019 10:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/satyawpc/public_html/edit.php on line 18
+[13-May-2019 11:08:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/satyawpc/public_html/edit.php on line 18
+[13-May-2019 11:20:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/satyawpc/public_html/edit.php on line 18
+[13-May-2019 11:52:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/add.php on line 84
+[13-May-2019 11:52:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/add.php on line 84
+[13-May-2019 11:52:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/add.php on line 84
+[13-May-2019 12:00:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/add.php on line 84
+[13-May-2019 12:13:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/add.php on line 82
+[13-May-2019 12:19:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 289
+[13-May-2019 12:20:15 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 289
+[13-May-2019 12:22:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 289
+[13-May-2019 12:22:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 289
+[13-May-2019 12:34:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/satyawpc/public_html/edit.php on line 18
+[13-May-2019 12:35:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 286
+[13-May-2019 12:35:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 286
+[13-May-2019 12:36:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/satyawpc/public_html/add.php on line 63
+[13-May-2019 12:36:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/satyawpc/public_html/add.php on line 63
+[13-May-2019 12:47:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/satyawpc/public_html/add.php on line 62
+[13-May-2019 13:00:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 291
+[13-May-2019 13:00:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 293
+[13-May-2019 13:02:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 291
+[13-May-2019 13:02:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 293
+[13-May-2019 13:03:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 291
+[13-May-2019 13:03:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 293
+[13-May-2019 13:06:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 290
+[13-May-2019 13:06:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 291
+[13-May-2019 13:07:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 282
+[13-May-2019 13:07:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 283
+[13-May-2019 13:07:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 282
+[13-May-2019 13:07:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/satyawpc/public_html/index2.php on line 283
+[13-May-2019 13:09:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 282
+[13-May-2019 13:09:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function mysqli_errur() in /home/satyawpc/public_html/index2.php on line 282
+[13-May-2019 13:21:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/130520191321541540116615288.jpg): failed to open stream: No such file or directory in /home/satyawpc/public_html/proses_simpan.php on line 18
+[13-May-2019 13:21:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWvdAgP' to 'images/130520191321541540116615288.jpg' in /home/satyawpc/public_html/proses_simpan.php on line 18
+[13-May-2019 13:23:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/satyawpc/public_html/index2.php on line 283
+[14-May-2019 20:19:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satyawpc/public_html/biodata.php on line 261
+[21-May-2019 23:54:40 Asia/Jakarta] PHP Warning:  include(/crud/koneksi.php): failed to open stream: No such file or directory in /home/satyawpc/public_html/index2.php on line 287
+[21-May-2019 23:54:40 Asia/Jakarta] PHP Warning:  include(): Failed opening '/crud/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/satyawpc/public_html/index2.php on line 287
+[21-May-2019 23:54:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/satyawpc/public_html/index2.php on line 289
+[21-May-2019 23:54:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/satyawpc/public_html/index2.php on line 290
+[25-May-2019 04:27:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(crud/img/25052019042754313683_332444220176795_1170593907_n.jpg): failed to open stream: No such file or directory in /home/satyawpc/public_html/proses_ubah.php on line 13
+[25-May-2019 04:27:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkxIpRV' to 'crud/img/25052019042754313683_332444220176795_1170593907_n.jpg' in /home/satyawpc/public_html/proses_ubah.php on line 13
+[25-May-2019 04:28:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(crud/img/2505201904284112400764_948685028552708_1342254801121088124_n.jpg): failed to open stream: No such file or directory in /home/satyawpc/public_html/proses_ubah.php on line 13
+[25-May-2019 04:28:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjCxltO' to 'crud/img/2505201904284112400764_948685028552708_1342254801121088124_n.jpg' in /home/satyawpc/public_html/proses_ubah.php on line 13

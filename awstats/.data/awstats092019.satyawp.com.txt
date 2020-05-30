@@ -1,0 +1,397 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/satyawpc/domains/satyawp.com/awstats/.data/awstats.satyawp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2100                
+POS_TIME 2766                
+POS_VISITOR 8192                
+POS_DAY 10393               
+POS_DOMAIN 3492                
+POS_LOGIN 3722                
+POS_ROBOT 3877                
+POS_WORMS 4389                
+POS_EMAILSENDER 4520                
+POS_EMAILRECEIVER 4663                
+POS_SESSION 10977               
+POS_SIDER 11145               
+POS_FILETYPES 4798                
+POS_DOWNLOADS 5061                
+POS_OS 5138                
+POS_BROWSER 5332                
+POS_SCREENSIZE 5977                
+POS_UNKNOWNREFERER 6051                
+POS_UNKNOWNREFERERBROWSER 6669                
+POS_ORIGIN 6827                
+POS_SEREFERRALS 6963                
+POS_PAGEREFS 7107                
+POS_SEARCHWORDS 7344                
+POS_KEYWORDS 7496                
+POS_MISC 2430                
+POS_ERRORS 7555                
+POS_CLUSTER 3578                
+POS_SIDER_403 7681                
+POS_SIDER_400 7788                
+POS_SIDER_404 7870                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190926044103 51 11140 10627570004335
+FirstTime 0
+LastTime 20190926044103
+LastUpdate 20190926054559 51 0 51 0 0
+TotalVisits 72                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 20641 3 3 942
+1 8 11 195479 10 16 2535312
+2 2 2 38635 7 10 49990
+3 3 3 27581 15 29 243866
+4 3 3 49410 7 14 721895
+5 3 7 94163 7 14 101978
+6 7 15 3802862 5 14 758000
+7 6 34 5465652 7 19 204499
+8 9 9 68009 3 7 10173
+9 16 50 8181192 17 24 33834
+10 4 4 90670 11 15 17380
+11 7 12 753698 60 70 324527
+12 2 2 21165 6 12 44766
+13 1 1 10580 3 9 29777
+14 4 4 89210 15 23 48330
+15 1 6 3142312 3 7 38898
+16 1 1 10536 7 8 75529
+17 1 1 10536 10 20 93398
+18 5 5 97899 7 23 132891
+19 3 3 45271 8 15 1387545
+20 3 8 685579 9 16 160201
+21 2 7 675590 4 9 28590
+22 1 1 10536 5 17 155666
+23 4 11 728902 7 15 197276
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 98 202 24316108
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 67 5023856 20190925095153 31
+YandexBot/ 20 791462 20190925210536 11
+bot[\s_+:,\.\;\/\\-] 16 400158 20190925125846 1
+bingpreview 10 408538 20190916233443 0
+bingbot/ 10 83224 20190920165448 2
+spider 7 97666 20190906184251 1
+DuckDuckGo\-Favicons\-Bot/ 6 41097 20190916171158 0
+python 2 11255 20190922041834 1
+curl 2 488 20190905080406 0
+netcraft 2 55595 20190905150834 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 2 39958 0 0
+mp3 10 11996708 0 0
+png 46 9602124 0 0
+woff2 2 36471 0 0
+php 89 1102358 0 0
+html 6 26093 0 0
+docx 1 659204 0 0
+jpg 2 246052 0 0
+js 31 517960 0 0
+jpeg 10 87965 0 0
+Unknown 3 1215 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/Portofolio.docx 5 0 3324557
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 7 1
+winxp 2 2
+macosx11 6 6
+macosx12 1 1
+linux 66 19
+win7 6 6
+winunknown 2 2
+win8.1 32 10
+win10 57 28
+Unknown 23 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+firefox50.0 18 3
+edge17 10 2
+firefox48.0 1 1
+chrome77.0.3865.90 29 7
+firefox42.0 1 1
+opera54.0.2952.71 3 3
+chrome66.0.3359.117 2 2
+opera53.0.2907.99 1 1
+chrome76.0.3809.132 14 2
+chrome5.0.375.99 1 1
+chrome67.0.3396.79 3 3
+chrome76.0.3809.100 36 8
+chrome69.0.3494.0 3 1
+chrome73.0.3683.86 4 1
+chrome71.0.3578.98 3 1
+firefox58.0 1 1
+chrome74.0.3729.157 2 2
+chrome58.0.3029.110 9 3
+firefox47.0 6 6
+chrome51.0.2704.103 1 1
+firefox61.0 11 11
+chrome74.0.3729.131 2 2
+mozilla 18 18
+chrome71.0.3578.80 1 1
+firefox60.0 1 1
+opera54.0.2952.64 3 3
+Unknown 8 8
+chrome73.0.3683.90 7 1
+chrome67.0.3396.62 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190905080409
+Mozilla/4.0_(compatible;_ms-office) 20190908062205
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190926044103
+Go-http-client/2.0 20190920094921
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190924020310
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190923221313
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/2.0 20190920094921
+Microsoft_Office_Word_2014 20190908062205
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 63 84
+From1 1 1
+From2 0 0
+From3 12 18
+From4 22 99
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://brandnewblogs.com 10 10
+http://freevpn.express 1 7
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+421 1 3262
+403 2 3147
+404 94 405076
+301 158 70439
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 2
+/.env 1 -
+/.git/HEAD 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/ads.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+103.55.33.182 7 29 4776616 20190925080456
+104.192.74.244 7 35 4941613 20190910090223
+36.71.238.89 7 21 4490008 20190908073141
+60.191.38.77 6 6 168594 20190922040249
+137.226.113.26 5 5 52161 20190926044103 20190926044103 /
+137.226.113.27 4 4 41106 20190917051026
+137.226.113.28 3 3 31608 20190924020310
+92.249.191.225 3 3 31221 20190907132915
+37.120.217.55 3 3 61340 20190923141817
+84.17.47.135 3 3 61340 20190915115517
+173.252.127.5 1 1 10731 20190907151643
+3.1.49.145 1 1 10738 20190907011110
+66.84.95.111 1 1 8482 20190906035742
+79.144.249.239 1 3 41802 20190917052634
+62.210.89.11 1 1 10775 20190916041808
+173.252.127.16 0 1 13364 
+173.252.127.2 0 1 2493098 
+66.84.89.100 1 1 8519 20190906035744
+82.202.161.133 1 1 10116 20190922081525
+3.214.21.251 1 1 10580 20190910192110
+64.90.48.102 1 1 27870 20190910140146
+137.226.113.34 1 6 664982 20190916205022
+173.252.127.30 0 1 7131 
+62.165.226.158 2 2 21160 20190920013658
+54.233.153.159 1 1 10738 20190914235151
+66.133.109.36 2 2 810 20190905080409
+188.165.192.220 1 1 10061 20190903003617
+51.15.78.133 1 1 10585 20190921124857
+148.251.151.40 1 1 24111 20190903195309
+18.236.210.158 1 1 6654 20190916090128
+107.178.238.47 1 3 41825 20190918052227
+149.154.157.135 1 4 74186 20190920012031
+84.17.58.47 1 1 28062 20190905103925
+89.147.68.93 1 1 10061 20190901094334
+173.252.127.13 0 1 6265 
+158.69.241.225 1 1 10580 20190918110113
+54.166.239.61 1 1 27855 20190919080520
+213.159.213.236 1 1 10116 20190906082119
+54.212.210.120 1 1 10503 20190901230854
+91.148.141.162 1 7 3153687 20190922095925
+34.208.128.163 1 1 6654 20190918094814
+34.219.220.204 1 1 6654 20190901111243
+89.147.68.124 3 3 31740 20190926035936 20190926035936 /
+37.120.142.164 3 3 59783 20190904183048
+173.252.127.4 0 1 611723 
+36.71.237.149 1 8 701006 20190907230730
+62.4.14.198 1 1 27855 20190907101033
+35.165.67.51 1 1 6655 20190905233438
+18.236.139.136 1 1 6654 20190920094921
+185.137.234.20 1 1 6654 20190916102622
+137.226.113.21 2 12 1330117 20190923113838
+35.166.149.157 1 1 6654 20190914090133
+18.197.227.110 1 1 405 20190905080349
+62.165.226.87 2 2 21160 20190912001655
+185.93.3.110 3 3 61340 20190916013957
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20190901 3 3 27218 3
+20190903 6 6 74284 6
+20190904 3 3 59783 1
+20190905 7 12 711566 6
+20190906 3 3 27117 3
+20190907 5 17 3892491 5
+20190908 7 21 4490008 2
+20190909 1 1 10580 1
+20190910 10 38 4990599 4
+20190911 2 2 38635 2
+20190912 2 2 38679 2
+20190914 3 3 45491 3
+20190915 3 3 61340 1
+20190916 9 14 771477 7
+20190917 3 5 62918 3
+20190918 3 5 59059 3
+20190919 2 2 55954 2
+20190920 4 7 101956 4
+20190921 2 2 38684 2
+20190922 4 10 3202482 4
+20190923 5 10 736939 3
+20190924 2 2 21116 2
+20190925 7 29 4776616 1
+20190926 2 2 21116 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+30s-2mn 1
+0s-30s 68
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 75 940074 68 60
+/contact.php 11 153498 2 6
+/contact2.php 3 13035 0 2
+/satyatech.html 2 8062 0 0
+/index2.php 2 9018 0 0
+/.well-known/acme-challenge/YHlp8OCj5CFrVWvr4BixvLkTRcrqJhEUjppJ6MuzVa0 2 810 2 1
+/project.html 2 4764 0 0
+/.well-known/acme-challenge/vmCByTTtC06OsKfCTwpLBQkAiqATh61ME-R3nyyolSU 1 405 0 1
+END_SIDER
